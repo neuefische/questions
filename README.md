@@ -1,10 +1,10 @@
 # Questions
 
-Please visit the [Discussions Forum](https://github.com/neuefische/questions/discussions)
+Please visit the [Discussions Forum](https://github.com/orgs/neuefische/discussions)
 
 
 ## Categories
 
-- [Web](https://github.com/neuefische/questions/discussions/categories/web)
-- [Java](https://github.com/neuefische/questions/discussions/categories/java)
+- [Web courses](https://github.com/orgs/neuefische/discussions/categories/web)
+
 
