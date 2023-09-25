@@ -20,4 +20,4 @@ Please take a look at our Wiki. It provides guides and examples for questions: h
 You can find the following guides:
 
 - How to ask good questions during self directed learning
-- [How to ask good questions during the capstone project](https://github.com/neuefische/questions/wiki/How-to-ask-good-questions)
+- [How to ask good questions during your capstone project](https://github.com/neuefische/questions/wiki/How-to-ask-good-questions)
