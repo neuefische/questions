@@ -8,7 +8,7 @@ The ability to ask questions as a developer is crucial for effective problem sol
 
 ## Categories
 
-We have different categories for our discussions. Please choose the right category for your question. If you are not sure which category to choose, you can ask your question in the `General` category.
+We have different categories for our discussions. Please choose the right category for your question.
 
 - [Web: Capstone Phase](https://github.com/orgs/neuefische/discussions/categories/web)
 - [Web: Self-Directed Learning](https://github.com/orgs/neuefische/discussions/categories/web-self-directed-learning)
